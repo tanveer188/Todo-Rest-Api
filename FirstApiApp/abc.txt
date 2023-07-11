@@ -1,0 +1,9 @@
+{
+"username":"tanveer__h79",
+"password":"b_Q@2Q*P6+FdU!@"
+}
+
+{
+  "refresh": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY4OTEzMzY4NSwiaWF0IjoxNjg5MDQ3Mjg1LCJqdGkiOiJmMDVjN2IxOTY4MzY0ODE4OGFjZTJmOTRiZjliY2U1OSIsInVzZXJfaWQiOjJ9.1KWjyslS1WRcbW8dJUXzH9ZhEfiLV_kpj0jEAnteyW4",
+  "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjg5MDQ3NTg1LCJpYXQiOjE2ODkwNDcyODUsImp0aSI6IjY4NjZhZmU3ZGFkMDRmNTBhZDZlODg3ZDRhNGUwZGYyIiwidXNlcl9pZCI6Mn0.UA61c5CIR23TmOnp_hsAWjCVPC8jLQlnhBpWfagi5lM"
+}
